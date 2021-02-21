@@ -1,0 +1,15 @@
+# > Subconverter(Part)
+DOMAIN-SUFFIX,subcon.dlj.tf
+DOMAIN-SUFFIX,subweb.ccsub.site
+DOMAIN,sub.ccsub.site
+
+# > CordCloud
+DOMAIN-KEYWORD,cordcord
+DOMAIN-KEYWORD,cordcloud
+DOMAIN-KEYWORD,c-cloud
+DOMAIN-SUFFIX,ccsub.cc
+
+### ###
+
+# > Warframe
+DOMAIN-SUFFIX,warframe.com
