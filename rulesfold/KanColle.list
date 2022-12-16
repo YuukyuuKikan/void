@@ -20,3 +20,4 @@ IP-CIDR,203.104.209.23/32,no-resolve
 IP-CIDR,203.104.209.39/32,no-resolve
 IP-CIDR,203.104.209.55/32,no-resolve
 IP-CIDR,203.104.209.102/32,no-resolve
+DOMAIN-SUFFIX,ooi.moe
