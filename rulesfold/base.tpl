@@ -214,7 +214,7 @@ dns:
   nameserver:
     - 223.5.5.5
     - 119.29.29.29
-    - dhcp://system
+#    - dhcp://system
     - https://dns.alidns.com/dns-query
     - https://i.233py.com/dns-query
     - https://doh.pub/dns-query
